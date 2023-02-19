@@ -50,7 +50,11 @@ namespace HttpWebServer_3M
 
                 Console.WriteLine("Отправлено сообщение клиенту!");
 
+                Console.WriteLine("   ");
+
                 Console.ReadLine();
+
+                
             }
         }
     }
